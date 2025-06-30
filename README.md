@@ -16,3 +16,5 @@
 ```bash
 pip install -r requirements.txt
 python main.py
+
+Иван Казакевич — Telegram: @iv_an_kaz
